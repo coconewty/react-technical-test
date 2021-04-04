@@ -1,0 +1,404 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots App Default 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dRUmeg"
+    >
+      <img
+        alt=""
+        className="sc-hKwCoD mGBXL"
+        src="https://placekitten.com/140/70"
+      />
+    </header>
+    <main
+      className="sc-eCImvq kmAtYH"
+    >
+      <div
+        className="sc-jRQAMF exByXp"
+      >
+        I'm a sidenav
+      </div>
+      <div
+        className="sc-gKckTs hEvGia"
+      >
+        <button>
+          Load me up with some random facts about cats
+        </button>
+      </div>
+    </main>
+    <footer
+      className="sc-iCfLBT cZWEdl"
+    >
+      <p>
+        Footer with lots of useful things like
+         
+        <a
+          href="https://twitter.com/herrmanndigital/status/1375883064052641794?s=20"
+        >
+          this link of a guy dancing
+        </a>
+      </p>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Fetch Error 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dRUmeg"
+    >
+      <img
+        alt=""
+        className="sc-hKwCoD mGBXL"
+        src="https://placekitten.com/140/70"
+      />
+    </header>
+    <main
+      className="sc-eCImvq kmAtYH"
+    >
+      <div
+        className="sc-jRQAMF exByXp"
+      >
+        I'm a sidenav
+      </div>
+      <div
+        className="sc-gKckTs hEvGia"
+      >
+        <button>
+          Load me up with some random facts about cats
+        </button>
+        <p
+          className="sc-jrQzUz cqHOEu"
+        >
+          Oops - something's not working properly! Have another go 🤞
+        </p>
+      </div>
+    </main>
+    <footer
+      className="sc-iCfLBT cZWEdl"
+    >
+      <p>
+        Footer with lots of useful things like
+         
+        <a
+          href="https://twitter.com/herrmanndigital/status/1375883064052641794?s=20"
+        >
+          this link of a guy dancing
+        </a>
+      </p>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Loaded 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dRUmeg"
+    >
+      <img
+        alt=""
+        className="sc-hKwCoD mGBXL"
+        src="https://placekitten.com/140/70"
+      />
+    </header>
+    <main
+      className="sc-eCImvq kmAtYH"
+    >
+      <div
+        className="sc-jRQAMF exByXp"
+      >
+        I'm a sidenav
+      </div>
+      <div
+        className="sc-gKckTs hEvGia"
+      >
+        <div
+          className="sc-pVTma dRXrVy"
+        >
+          <h3>
+            Fact 
+            1
+             
+            <span
+              className="sc-furvIG dwBWCZ"
+            >
+              Verified
+            </span>
+          </h3>
+          <p>
+            The oldest cat on record was probably "Puss", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day.
+          </p>
+          <button
+            onClick={[Function]}
+          >
+            Edit
+          </button>
+        </div>
+        <div
+          className="sc-pVTma dRXrVy"
+        >
+          <h3>
+            Fact 
+            2
+             
+            <span
+              className="sc-furvIG dwBWCZ"
+            >
+              Verified
+            </span>
+          </h3>
+          <p>
+            The oldest cat on record was probably "Puss", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day.
+          </p>
+          <button
+            onClick={[Function]}
+          >
+            Edit
+          </button>
+        </div>
+        <div
+          className="sc-pVTma dRXrVy"
+        >
+          <h3>
+            Fact 
+            3
+             
+            <span
+              className="sc-furvIG dwBWCZ"
+            >
+              Verified
+            </span>
+          </h3>
+          <p>
+            The oldest cat on record was probably "Puss", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day.
+          </p>
+          <button
+            onClick={[Function]}
+          >
+            Edit
+          </button>
+        </div>
+      </div>
+    </main>
+    <footer
+      className="sc-iCfLBT cZWEdl"
+    >
+      <p>
+        Footer with lots of useful things like
+         
+        <a
+          href="https://twitter.com/herrmanndigital/status/1375883064052641794?s=20"
+        >
+          this link of a guy dancing
+        </a>
+      </p>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`Storyshots App Loading 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <header
+      className="sc-dkPtyc dRUmeg"
+    >
+      <img
+        alt=""
+        className="sc-hKwCoD mGBXL"
+        src="https://placekitten.com/140/70"
+      />
+    </header>
+    <main
+      className="sc-eCImvq kmAtYH"
+    >
+      <div
+        className="sc-jRQAMF exByXp"
+      >
+        I'm a sidenav
+      </div>
+      <div
+        className="sc-gKckTs hEvGia"
+      >
+        <div
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "<svg xmlns=\\"http://www.w3.org/2000/svg\\" viewBox=\\"0 0 32 32\\">
+  <path transform=\\"translate(0 0)\\" d=\\"M0 12 V20 H4 V12z\\">
+    <animateTransform attributeName=\\"transform\\" type=\\"translate\\" values=\\"0 0; 28 0; 0 0; 0 0\\" dur=\\"1.5s\\" begin=\\"0\\" repeatCount=\\"indefinite\\" keytimes=\\"0;0.3;0.6;1\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+  </path>
+  <path opacity=\\"0.5\\" transform=\\"translate(0 0)\\" d=\\"M0 12 V20 H4 V12z\\">
+    <animateTransform attributeName=\\"transform\\" type=\\"translate\\" values=\\"0 0; 28 0; 0 0; 0 0\\" dur=\\"1.5s\\" begin=\\"0.1s\\" repeatCount=\\"indefinite\\" keytimes=\\"0;0.3;0.6;1\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+  </path>
+  <path opacity=\\"0.25\\" transform=\\"translate(0 0)\\" d=\\"M0 12 V20 H4 V12z\\">
+    <animateTransform attributeName=\\"transform\\" type=\\"translate\\" values=\\"0 0; 28 0; 0 0; 0 0\\" dur=\\"1.5s\\" begin=\\"0.2s\\" repeatCount=\\"indefinite\\" keytimes=\\"0;0.3;0.6;1\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+  </path>
+</svg>
+",
+            }
+          }
+          style={
+            Object {
+              "fill": "#aaa",
+              "height": 64,
+              "width": 64,
+            }
+          }
+        />
+      </div>
+    </main>
+    <footer
+      className="sc-iCfLBT cZWEdl"
+    >
+      <p>
+        Footer with lots of useful things like
+         
+        <a
+          href="https://twitter.com/herrmanndigital/status/1375883064052641794?s=20"
+        >
+          this link of a guy dancing
+        </a>
+      </p>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CatFact Default 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <div
+      className="sc-pVTma dRXrVy"
+    >
+      <h3>
+        Fact 
+        1
+         
+        <span
+          className="sc-furvIG dwBWCZ"
+        >
+          Verified
+        </span>
+      </h3>
+      <p>
+        The oldest cat on record was probably "Puss", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day.
+      </p>
+      <button>
+        Edit
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CatFact Editable 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <div
+      className="sc-pVTma dRXrVy"
+    >
+      <h3>
+        Fact 
+        1
+         
+        <span
+          className="sc-furvIG dwBWCZ"
+        >
+          Verified
+        </span>
+      </h3>
+      <textarea
+        cols="30"
+        id=""
+        name=""
+        rows="10"
+        value="The oldest cat on record was probably \\"Puss\\", a tabby owned by Mrs. Holway of Clayhidon, Devon. Having celebrated his 36th birthday on November 28, 1939, Puss died the following day."
+      />
+      <p>
+        <button>
+          Save
+        </button>
+        <button>
+          Cancel
+        </button>
+        <button>
+          Delete
+        </button>
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CatFact Edited 1`] = `
+<div
+  className="sc-bdvvaa fImdWK"
+>
+  <div
+    className="sc-gsDJrp hkNpyT"
+  >
+    <div
+      className="sc-pVTma dRXrVy"
+    >
+      <h3>
+        Fact 
+        1
+         
+        <span
+          className="sc-furvIG dwBWCZ"
+        >
+          Verified
+        </span>
+      </h3>
+      <textarea
+        cols="30"
+        id=""
+        name=""
+        rows="10"
+        value="This is some new text."
+      />
+      <p>
+        <button>
+          Save
+        </button>
+        <button>
+          Cancel
+        </button>
+        <button>
+          Delete
+        </button>
+      </p>
+    </div>
+  </div>
+</div>
+`;
